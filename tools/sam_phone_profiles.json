@@ -1,0 +1,22 @@
+{
+  "ELLEN_SHARK": {
+    "label": "艾莲 · 雾蓝鲨鱼款",
+    "aliases": ["艾莲", "エレン", "ellen", "ellen joe"],
+    "builder": "shark"
+  },
+  "BELLE_REC01": {
+    "label": "玲 · 橙色 REC-01",
+    "aliases": ["铃", "玲", "belle"],
+    "asset": "sam_phone_assets/Belle_REC01.blend",
+    "collection": "玲的手机 / REC-01 / 可编辑模型",
+    "root": "玲的手机 / 整体控制",
+    "fit_translation": [0.024, -0.011, -0.002],
+    "fit_tilt_degrees": 20,
+    "fit_palm_side": -1,
+    "grip_curl_sign": -1,
+    "fit_revision": 2,
+    "grip_reference": "sam_belle_phone_grips.json",
+    "grip_transition_outside_visibility": true,
+    "outline_parts": ["防撞圆角中框", "后盖", "前屏细边框", "前屏玻璃", "橙色电源键", "音量键", "相机橙色底圈", "相机黑色浮台", "相机金属环", "相机黑色镜片"]
+  }
+}
